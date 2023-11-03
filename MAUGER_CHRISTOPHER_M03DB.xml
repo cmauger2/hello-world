@@ -1,0 +1,125 @@
+<mxfile modified="2023-11-03T18:33:41.036Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="akPJklE0FfLourGmVIV0" version="22.0.8" type="github">
+  <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
+    <mxGraphModel dx="2074" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bC9mAllne671p5dbn9rO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="100" width="630" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bC9mAllne671p5dbn9rO-5" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="284" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-13" target="Y-Faz2VGLHn6HHpG1r81-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-13" target="Y-Faz2VGLHn6HHpG1r81-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-13" target="Y-Faz2VGLHn6HHpG1r81-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bC9mAllne671p5dbn9rO-13" value="&lt;div&gt;Admin&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="782" y="284" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XLtC2qS3hwPV-j5Zmhv8-2" value="School Registration System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="248" y="30" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-1" value="Complete Course Placement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-3" value="Speak with your Advisor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="455" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-4" value="Search for Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="535" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-5" value="Satisfy any Outstanding Obligations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-6" value="Register for Classes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-7" target="Y-Faz2VGLHn6HHpG1r81-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-7" value="Pay for Your Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-8" value="That&#39;s it!" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-34" value="Send Course Placement Completion Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-35" value="Apply for College" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-38" value="Verify Student Application Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-39" value="Apply for Financial Aid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="Y-Faz2VGLHn6HHpG1r81-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y-Faz2VGLHn6HHpG1r81-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="339" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-55" target="Y-Faz2VGLHn6HHpG1r81-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-55" target="Y-Faz2VGLHn6HHpG1r81-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-55" target="Y-Faz2VGLHn6HHpG1r81-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-55" value="&lt;div&gt;Advisor&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="520" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-57" value="Send Student Information to Advisor&#39;s Office" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="394" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-59" value="Confirm Student Class Registration Appointment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-55" target="Y-Faz2VGLHn6HHpG1r81-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-62" target="Y-Faz2VGLHn6HHpG1r81-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-62" value="Input Student Schedule into the System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-Faz2VGLHn6HHpG1r81-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y-Faz2VGLHn6HHpG1r81-62" target="Y-Faz2VGLHn6HHpG1r81-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
